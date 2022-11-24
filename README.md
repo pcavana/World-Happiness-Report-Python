@@ -7,7 +7,9 @@ Technologies:
 
 - Python
 - Pandas
+- Numpy
+- Matplotlib
 
-## Contributing Members
+## Contributing Member
 
 - Paola Cavana
