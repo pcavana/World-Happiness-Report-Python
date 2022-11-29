@@ -6,12 +6,13 @@ Basic data analysis with Python
 
 -- Project status: [In Progress]
 
-Technologies:
+Language and packages:
 
 - Python
 - Pandas
 - Numpy
 - Matplotlib
+- Plotly
 
 ## Contributing Member
 
